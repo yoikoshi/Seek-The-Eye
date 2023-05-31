@@ -1,11 +1,11 @@
-# 「Seek　The　Eye」
+# 「Seek The Eye」
 
-制作時間：２〜３ヶ月　　
+制作時間：２〜３ヶ月. 
 
-制作ツール：Unity　　
+制作ツール：Unity. 
 
-使用アセット：　　
-「Simple Fade Scene Transition System」　　
+使用アセット：  
+「Simple Fade Scene Transition System」　  　
 https://assetstore.unity.com/packages/tools/particles-effects/simple-fade-scene-transition-system-81753?aid=1101libXw&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker　　
 
 参考にしたプログラム：　　
