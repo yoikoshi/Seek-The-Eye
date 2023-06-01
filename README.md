@@ -1,4 +1,5 @@
-# 「Seek The Eye」
+# 「Seek The Eye」  
+WebGL版  
 
 ## 制作時間：  
 ２〜３ヶ月  
