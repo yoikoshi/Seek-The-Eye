@@ -1,5 +1,6 @@
 # 「Seek The Eye」  
 WebGL版  
+https://yoikoshi.github.io/Seek-The-Eye でプレイ可能  
 
 ## 制作時間：  
 ２〜３ヶ月  
